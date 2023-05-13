@@ -1,0 +1,1 @@
+ALTER TABLE med_aplication.med_aplication ADD COLUMN telefone VARCHAR(14);
