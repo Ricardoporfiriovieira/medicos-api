@@ -4,7 +4,7 @@
 
 ## Quick Start:
 
-**
+
 **Para rodar o projeto é necessário seguir os seguintes passos:**
 
 1.  Clone o código fonte do projeto em: [https://github.com/Ricardoporfiriovieira/medicos-api](https://github.com/Ricardoporfiriovieira/medicos-api)
@@ -14,7 +14,7 @@
 3.  Execute o seguinte script para criar a tabela com o schema correto:
     
 
-sqlCopy code
+Comando SQL:
 
 ``CREATE TABLE `med_aplication` (
   `id` bigint NOT NULL AUTO_INCREMENT,
